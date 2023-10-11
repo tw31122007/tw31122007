@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**tw31122007/tw31122007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json {
+"age": "15",
+"interests": ["web design/development", "3d printing", "the right to repair", "containerised applications", "networking", "gaming"],
+"operating system": "PopOs!",
+"socials": {
+    "email": "tw31122007@tuta.io",
+    "discord": "Tw31122007"
+},
+"certifications": {
+    "Introduction to Cyber Security Learning Path": "TryHackMe.com",
+    "Pre-Security Learning Path": "TryHackMe.com"
+},
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+```
+<img src="https://komarev.com/ghpvc/?username=tw31122007&label=Amount of eyeballs that saw this &color=001eff&style=flat" alt="tw31122007"/>
