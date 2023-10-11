@@ -3,7 +3,8 @@
 ```json {
 "age": "15",
 "interests": ["web design/development", "3d printing", "the right to repair", "containerised applications", "networking", "gaming"],
-"operating system": "PopOs!",
+"operatingSystem": "PopOs!",
+"programmingLanguages": ["HTML", "javascript", "CSS", "python"],
 "socials": {
     "email": "tw31122007@tuta.io",
     "discord": "Tw31122007"
