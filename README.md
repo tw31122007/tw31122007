@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```json {
-"age": "15",
+"age": "16",
 "interests": ["web design/development", "3d printing", "the right to repair", "containerised applications", "networking", "gaming"],
 "operatingSystem": "PopOs!",
 "programmingLanguages": ["HTML", "javascript", "CSS", "python"],
