@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 ```json {
-"age": "17",
+"age": "18",
 "interests": ["web design/development", "3d printing", "the right to repair", "containerised applications", "networking", "gaming"],
 "operatingSystem": "PopOs!",
 "programmingLanguages": ["HTML", "javascript", "CSS", "python"],
 "socials": {
     "email": "tw31122007@tuta.io",
-    "discord": "Tw31122007"
 },
 "certifications": {
     "Introduction to Cyber Security Learning Path": "TryHackMe.com",
